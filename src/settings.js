@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-global.apikey = "FauziDevID";
+global.apikey = "beli di https://api.betabotz.org";
 global.keyai = `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`
 
 global.pairing = '6285294478244'
